@@ -1,5 +1,5 @@
 import { NgModule, ErrorHandler } from '@angular/core';
-import { IonicApp, IonicModule, IonicErrorHandler } from 'ionic-angular';
+import { IonicApp, IonicModule, IonicErrorHandler } from 'ionic-angular';//ionic module
 import { MyApp } from './app.component';//link component
 import { HomePage } from '../pages/home/home';//for pages
 
